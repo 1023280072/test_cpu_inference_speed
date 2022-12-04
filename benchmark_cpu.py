@@ -1,4 +1,5 @@
-# Copyright (c) OpenMMLab. All rights reserved.
+# 用于测试mmdetection模型的CPU推理速度
+
 import os
 import torch
 import time
